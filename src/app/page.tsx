@@ -79,7 +79,7 @@ export default function HomePage() {
           features={[
             {
               id: "fencing",              title: "Fencing Services",              author: "Specialized Installation & Repair",              description: "Professional fence installation, repairs, and staining. We work with wood, chain link, and custom solutions designed to last.",              tags: ["Installation", "Repair", "Staining"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772802656018-c9o6by1y.jpg",              imageAlt: "modern fence installation outdoor"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772802656018-c9o6by1y.jpg?_wi=1",              imageAlt: "modern fence installation outdoor"
             },
             {
               id: "roofing",              title: "Roofing Services",              author: "JR's Roofing LLC - New Division",              description: "Complete roofing solutions including repairs, replacements, and storm damage restoration. Competitive rates and superior craftsmanship.",              tags: ["Repair", "Replacement", "Storm Damage"],
