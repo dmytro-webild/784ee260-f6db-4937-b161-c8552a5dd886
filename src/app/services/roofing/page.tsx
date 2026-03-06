@@ -47,15 +47,15 @@ export default function RoofingServicesPage() {
           ]}
           slides={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-carpenter-man-sitting-smiling_23-2148748790.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-carpenter-man-sitting-smiling_23-2148748790.jpg?_wi=2",
               imageAlt: "roofing installation professional contractor",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-with-protection-helmet_23-2149343636.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-with-protection-helmet_23-2149343636.jpg?_wi=2",
               imageAlt: "roofing shingles professional installation",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg?_wi=3",
               imageAlt: "roofing work in progress",
             },
           ]}
@@ -76,7 +76,7 @@ export default function RoofingServicesPage() {
               author: "Quick & Reliable",
               description: "Professional repair services for leaks, damage, and wear. We identify issues early and provide long-lasting solutions to protect your home.",
               tags: ["Leak Repair", "Storm Damage", "Fast Service"],
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-with-protection-helmet_23-2149343636.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-with-protection-helmet_23-2149343636.jpg?_wi=3",
             },
             {
               id: "roof-replacement",
@@ -84,7 +84,7 @@ export default function RoofingServicesPage() {
               author: "Complete Solutions",
               description: "Full roof replacements with modern materials and expert installation. We handle everything from removal to final inspection.",
               tags: ["Full Replacement", "Modern Materials", "Warranty"],
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-carpenter-man-sitting-smiling_23-2148748790.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-carpenter-man-sitting-smiling_23-2148748790.jpg?_wi=3",
             },
             {
               id: "storm-restoration",
@@ -92,7 +92,7 @@ export default function RoofingServicesPage() {
               author: "Emergency Response",
               description: "Fast response to storm damage with professional assessment and restoration. We work with insurance companies for seamless claims.",
               tags: ["Storm Damage", "Insurance Work", "24/7 Response"],
-              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg?_wi=4",
             },
           ]}
           animationType="slide-up"
@@ -114,7 +114,7 @@ export default function RoofingServicesPage() {
               handle: "@homeowner-ok",
               testimonial: "Jamie's team handled our roof replacement professionally and on time. The quality of work is exceptional and the price was fair. Highly recommend!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1602.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1602.jpg?_wi=2",
             },
             {
               id: "2",
@@ -122,7 +122,7 @@ export default function RoofingServicesPage() {
               handle: "@chickasha-property",
               testimonial: "After the storm damaged our roof, JR's responded quickly and professionally. They handled everything, including insurance coordination. Great experience!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-woman-choosimng-car-car-showroom_1303-26290.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-woman-choosimng-car-car-showroom_1303-26290.jpg?_wi=2",
             },
             {
               id: "3",
@@ -130,7 +130,7 @@ export default function RoofingServicesPage() {
               handle: "@local-builder",
               testimonial: "I've referred multiple clients to JR's for roofing work. They're reliable, skilled, and deliver quality results every time. One of the best in the area.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1613.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1613.jpg?_wi=2",
             },
           ]}
           showRating={true}
