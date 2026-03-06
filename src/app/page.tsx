@@ -60,15 +60,15 @@ export default function HomePage() {
           ]}
           slides={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg?_wi=1",
               imageAlt: "Professional fencing installation",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/front-view-carpenter-man-sitting-smiling_23-2148748790.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/front-view-carpenter-man-sitting-smiling_23-2148748790.jpg?_wi=1",
               imageAlt: "Quality roofing installation",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/worker-leveling-fresh-floor-with-special-machine_651396-3523.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/worker-leveling-fresh-floor-with-special-machine_651396-3523.jpg?_wi=1",
               imageAlt: "Concrete driveway project",
             },
           ]}
@@ -89,7 +89,7 @@ export default function HomePage() {
               author: "Specialized Installation & Repair",
               description: "Professional fence installation, repairs, and staining. We work with wood, chain link, and custom solutions designed to last.",
               tags: ["Installation", "Repair", "Staining"],
-              imageSrc: "http://img.b2bpic.net/free-photo/pieces-wood-each-other-forming-fence_181624-32752.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/pieces-wood-each-other-forming-fence_181624-32752.jpg?_wi=1",
               imageAlt: "modern fence installation outdoor",
             },
             {
@@ -98,7 +98,7 @@ export default function HomePage() {
               author: "JR's Roofing LLC - New Division",
               description: "Complete roofing solutions including repairs, replacements, and storm damage restoration. Competitive rates and superior craftsmanship.",
               tags: ["Repair", "Replacement", "Storm Damage"],
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-with-protection-helmet_23-2149343636.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-with-protection-helmet_23-2149343636.jpg?_wi=1",
               imageAlt: "roofing shingles professional installation",
             },
             {
@@ -107,7 +107,7 @@ export default function HomePage() {
               author: "Durable & Professional",
               description: "Expert concrete services for driveways, patios, slabs, and foundations. Built to withstand Oklahoma weather.",
               tags: ["Driveways", "Patios", "Slabs"],
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-construction-worker-construction-site_1150-10148.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-construction-worker-construction-site_1150-10148.jpg?_wi=1",
               imageAlt: "concrete driveway finished",
             },
             {
@@ -210,7 +210,7 @@ export default function HomePage() {
               handle: "@chickasha-resident",
               testimonial: "Jamie did an excellent job on our fence installation. Professional, affordable, and the work quality is outstanding. Highly recommend!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1602.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1602.jpg?_wi=1",
               imageAlt: "satisfied male customer portrait",
             },
             {
@@ -219,7 +219,7 @@ export default function HomePage() {
               handle: "@local-business-owner",
               testimonial: "The roofing work was completed on time and within budget. Jamie's team is reliable and stands behind their work. Great local business!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-woman-choosimng-car-car-showroom_1303-26290.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-woman-choosimng-car-car-showroom_1303-26290.jpg?_wi=1",
               imageAlt: "satisfied female business owner",
             },
             {
@@ -228,7 +228,7 @@ export default function HomePage() {
               handle: "@homeowner-ok",
               testimonial: "Fantastic concrete work on our driveway. The team was professional, cleaned up after themselves, and the finish looks amazing. Will definitely use again.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1613.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1613.jpg?_wi=1",
               imageAlt: "satisfied male customer portrait",
             },
             {
@@ -237,7 +237,7 @@ export default function HomePage() {
               handle: "@chickasha-family",
               testimonial: "We appreciated the free estimate and honest pricing. No surprises, just quality work. Jamie's sons are professional and skilled. Highly satisfied!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/cheerful-positive-young-woman-with-pinkish-hair-sitting-home-against-golden-light-background-having-optimistic-happy-facial-expression-keeping-hands-chin-smiling-broadly-camera_343059-1907.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/cheerful-positive-young-woman-with-pinkish-hair-sitting-home-against-golden-light-background-having-optimistic-happy-facial-expression-keeping-hands-chin-smiling-broadly-camera_343059-1907.jpg?_wi=1",
               imageAlt: "satisfied female customer portrait",
             },
             {

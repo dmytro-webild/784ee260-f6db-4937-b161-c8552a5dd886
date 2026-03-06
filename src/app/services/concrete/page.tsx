@@ -47,15 +47,15 @@ export default function ConcreteServicesPage() {
           ]}
           slides={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/worker-leveling-fresh-floor-with-special-machine_651396-3523.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/worker-leveling-fresh-floor-with-special-machine_651396-3523.jpg?_wi=3",
               imageAlt: "concrete driveway installation",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-construction-worker-construction-site_1150-10148.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-construction-worker-construction-site_1150-10148.jpg?_wi=2",
               imageAlt: "concrete driveway finished",
             },
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg?_wi=5",
               imageAlt: "concrete patio construction",
             },
           ]}
@@ -76,7 +76,7 @@ export default function ConcreteServicesPage() {
               author: "Durable & Beautiful",
               description: "Professional driveway installation and repair. We create smooth, attractive surfaces that add value to your home and withstand heavy use.",
               tags: ["Installation", "Repair", "Resurfacing"],
-              imageSrc: "http://img.b2bpic.net/free-photo/worker-leveling-fresh-floor-with-special-machine_651396-3523.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/worker-leveling-fresh-floor-with-special-machine_651396-3523.jpg?_wi=4",
             },
             {
               id: "concrete-patio",
@@ -84,7 +84,7 @@ export default function ConcreteServicesPage() {
               author: "Custom Design",
               description: "Create beautiful outdoor living spaces with professional concrete patios. Custom finishes and designs to match your style and needs.",
               tags: ["Patio Design", "Custom Finishes", "Outdoor Living"],
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-construction-worker-construction-site_1150-10148.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-construction-worker-construction-site_1150-10148.jpg?_wi=3",
             },
             {
               id: "concrete-foundations",
@@ -92,7 +92,7 @@ export default function ConcreteServicesPage() {
               author: "Structural Integrity",
               description: "Expert slab and foundation work for residential and commercial projects. Built with precision for long-lasting durability and stability.",
               tags: ["Slabs", "Foundations", "Professional Grade"],
-              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg?_wi=6",
             },
           ]}
           animationType="slide-up"
@@ -114,7 +114,7 @@ export default function ConcreteServicesPage() {
               handle: "@homeowner-ok",
               testimonial: "Our new driveway looks fantastic! The team was professional, clean, and the finish quality exceeded expectations. Great value for the work done.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1602.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1602.jpg?_wi=3",
             },
             {
               id: "2",
@@ -122,7 +122,7 @@ export default function ConcreteServicesPage() {
               handle: "@chickasha-resident",
               testimonial: "Jamie's crew built our patio and it's beautiful. The craftsmanship is evident, they cleaned up perfectly, and the pricing was very fair. Highly satisfied!",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/cheerful-positive-young-woman-with-pinkish-hair-sitting-home-against-golden-light-background-having-optimistic-happy-facial-expression-keeping-hands-chin-smiling-broadly-camera_343059-1907.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/cheerful-positive-young-woman-with-pinkish-hair-sitting-home-against-golden-light-background-having-optimistic-happy-facial-expression-keeping-hands-chin-smiling-broadly-camera_343059-1907.jpg?_wi=2",
             },
             {
               id: "3",
@@ -130,7 +130,7 @@ export default function ConcreteServicesPage() {
               handle: "@property-owner",
               testimonial: "Had a concrete repair done and it looks like new. The team was efficient, professional, and stands behind their work. Definitely recommend JR's.",
               rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1613.jpg",
+              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1613.jpg?_wi=3",
             },
           ]}
           showRating={true}
