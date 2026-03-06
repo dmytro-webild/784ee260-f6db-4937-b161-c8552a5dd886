@@ -46,8 +46,7 @@ export default function ContactPage() {
             tagIcon={Phone}
             tagAnimation="slide-up"
             background={{
-              variant: "rotated-rays-animated-grid",
-            }}
+              variant: "rotated-rays-animated-grid"}}
             useInvertedBackground={false}
             inputPlaceholder="Enter your email"
             buttonText="Send Me Options"
@@ -63,13 +62,9 @@ export default function ContactPage() {
             <FooterLogoReveal
               logoText="JR'S DIVERSIFIED"
               leftLink={{
-                text: "Privacy Policy",
-                href: "#",
-              }}
+                text: "Privacy Policy",                href: "#"}}
               rightLink={{
-                text: "Terms of Service",
-                href: "#",
-              }}
+                text: "Terms of Service",                href: "#"}}
             />
           </div>
         </div>
