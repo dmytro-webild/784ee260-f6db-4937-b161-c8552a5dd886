@@ -157,8 +157,8 @@ export default function HomePage() {
           tag="Testimonials"
           testimonials={[
             {
-              id: "1",              name: "Robert Martinez",              handle: "@chickasha-resident",              testimonial: "Jamie did an excellent job on our fence installation. Professional, affordable, and the work quality is outstanding. Highly recommend!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1602.jpg?_wi=1",              imageAlt: "satisfied male customer portrait"
+              id: "1",              name: "John Holt",              handle: "CEO & President, John Holt Chevrolet",              testimonial: "Jamie did an excellent job on our fence installation. Professional, affordable, and the work quality is outstanding. Highly recommend!",              rating: 5,
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772804363251-fj1ph9ku.jpg",              imageAlt: "John Holt CEO portrait"
             },
             {
               id: "2",              name: "Sarah Johnson",              handle: "@local-business-owner",              testimonial: "The roofing work was completed on time and within budget. Jamie's team is reliable and stands behind their work. Great local business!",              rating: 5,
