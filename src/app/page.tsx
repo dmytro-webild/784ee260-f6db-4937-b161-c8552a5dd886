@@ -91,7 +91,7 @@ export default function HomePage() {
             },
             {
               id: "painting",              title: "Painting Services",              author: "Interior & Exterior",              description: "Professional painting services for both interior and exterior projects. Clean, high-quality finishes that protect and beautify.",              tags: ["Interior", "Exterior", "Professional"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772804051816-49h5u6rr.jpg",              imageAlt: "professional house painting interior and exterior"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772804051816-49h5u6rr.jpg?_wi=1",              imageAlt: "professional house painting interior and exterior"
             },
           ]}
           animationType="slide-up"
@@ -141,7 +141,7 @@ export default function HomePage() {
             },
             {
               id: "family-owned",              title: "Family-Owned Business",              author: "Local Roots, Local Pride",              description: "Locally owned and operated by the Resendez family. We're invested in our community and take pride in every project.",              tags: ["Local", "Community"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772804051816-49h5u6rr.jpg",              imageAlt: "family business local community"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772804051816-49h5u6rr.jpg?_wi=2",              imageAlt: "family business local community"
             },
           ]}
           animationType="slide-up"
