@@ -206,16 +206,16 @@ export default function HomePage() {
       <div id="contact" data-section="contact">
         <ContactCenter
           tag="Ready to Get Started?"
-          title="Free Estimate for Your Project"
-          description="Contact JR's Diversified today for a free, no-obligation estimate. Call or fill out our form for immediate attention."
+          title="Call Us Today: 405-203-5018"
+          description="Phone contact is the fastest way to reach us. Call now for immediate service inquiries, free estimates, and project discussions. We're ready to help with your fencing, roofing, or construction project."
           tagAnimation="slide-up"
           background={{
             variant: "rotated-rays-animated-grid"
           }}
           useInvertedBackground={false}
-          inputPlaceholder="Enter your email"
-          buttonText="Send Me Options"
-          termsText="We respect your privacy. We'll contact you within 24 hours to discuss your project."
+          inputPlaceholder="Enter your phone number"
+          buttonText="Call Now"
+          termsText="For urgent matters or to speak with us directly, call 405-203-5018. We'll provide your free estimate and answer any questions immediately."
         />
       </div>
 
