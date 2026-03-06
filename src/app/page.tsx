@@ -87,7 +87,7 @@ export default function HomePage() {
             },
             {
               id: "concrete",              title: "Concrete Work",              author: "Durable & Professional",              description: "Expert concrete services for driveways, patios, slabs, and foundations. Built to withstand Oklahoma weather.",              tags: ["Driveways", "Patios", "Slabs"],
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-construction-worker-construction-site_1150-10148.jpg?_wi=1",              imageAlt: "concrete driveway finished"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772803392398-pjen0ty3.jpg",              imageAlt: "concrete driveway finished"
             },
             {
               id: "painting",              title: "Painting Services",              author: "Interior & Exterior",              description: "Professional painting services for both interior and exterior projects. Clean, high-quality finishes that protect and beautify.",              tags: ["Interior", "Exterior", "Professional"],
