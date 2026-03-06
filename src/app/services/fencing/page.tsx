@@ -77,7 +77,7 @@ export default function FencingServicesPage() {
           features={[
             {
               id: "new-installation",              title: "New Fence Installation",              author: "Professional Design & Build",              description: "We design and install custom fencing solutions including wood privacy fences, vinyl fencing, chain-link fences, and decorative options. Each fence is built to withstand Oklahoma weather and engineered for longevity.",              tags: ["Installation", "Custom Design", "Quality"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772802656018-c9o6by1y.jpg",              imageAlt: "fence installation project"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772802656018-c9o6by1y.jpg?_wi=2",              imageAlt: "fence installation project"
             },
             {
               id: "repairs",              title: "Fence Repairs",              author: "Fast, Reliable Service",              description: "Damaged fence? We repair broken boards, posts, gates, and hardware. Our team quickly assesses damage and provides cost-effective solutions to restore your fence to like-new condition.",              tags: ["Repair", "Quick Service", "Affordable"],
