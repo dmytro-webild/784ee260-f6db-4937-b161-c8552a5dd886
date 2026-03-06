@@ -1,77 +1,20 @@
 import type { Metadata } from "next";
-import { Halant } from "next/font/google";
 import { Inter } from "next/font/google";
-import { Poppins } from "next/font/google";
 import "./globals.css";
-import { ServiceWrapper } from "@/components/ServiceWrapper";
-import Tag from "@/tag/Tag";
 
-const halant = Halant({
-  variable: "--font-halant",
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "600", "700"],
-});
-
-const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
-});
-
-const poppins = Poppins({
-  variable: "--font-poppins",
-  subsets: ["latin"],
-  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
-});
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Professional Fencing, Roofing & Construction in Chickasha, OK",
-  description: "JR's Diversified offers affordable fencing, roofing, concrete, and construction services in Chickasha, Oklahoma. Licensed, bonded, and insured. Free estimates!",
-  keywords: "fencing contractor Chickasha OK, fence installation Chickasha Oklahoma, roofing contractor Chickasha OK, concrete services, construction Chickasha",
-  metadataBase: new URL("https://jrsdiversified.com"),
-  alternates: {
-    canonical: "https://jrsdiversified.com",
-  },
-  openGraph: {
-    title: "Professional Fencing & Construction Services - Chickasha, OK",
-    description: "JR's Diversified: Family-owned, licensed, and affordable. Fencing, roofing, concrete, and construction. Free estimates. Veteran hands on deck.",
-    url: "https://jrsdiversified.com",
-    siteName: "JR's Diversified Fencing and Construction LLC",
-    type: "website",
-    images: [
-      {
-        url: "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg",
-        alt: "Professional fencing installation by JR's Diversified",
-      },
-    ],
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Professional Fencing & Construction - Chickasha, OK",
-    description: "Affordable, quality construction services. Licensed, bonded, insured. Free estimates. Call 405-203-5018",
-    images: [
-      "http://img.b2bpic.net/free-photo/full-shot-social-distancing-concept_23-2148740142.jpg",
-    ],
-  },
-  robots: {
-    index: true,
-    follow: true,
-  },
-};
+  title: "JR's Diversified - Fencing, Roofing & Construction",  description: "Professional fencing, roofing, and construction services in Chickasha, Oklahoma. Free estimates, licensed and bonded."};
 
 export default function RootLayout({
   children,
-}: Readonly<{
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
-    <html lang="en" suppressHydrationWarning>
-      <ServiceWrapper>
-        <body
-          className={`${halant.variable} ${inter.variable} ${poppins.variable} antialiased`}
-        >
-          <Tag />
-          {children}
-        
+    <html lang="en">
+      <body className={inter.className}>{children}
         <script
           dangerouslySetInnerHTML={{
             __html: `
@@ -1439,7 +1382,6 @@ export default function RootLayout({
           }}
         />
       </body>
-      </ServiceWrapper>
     </html>
   );
 }
