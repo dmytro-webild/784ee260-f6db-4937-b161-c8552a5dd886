@@ -91,7 +91,7 @@ export default function HomePage() {
             },
             {
               id: "painting",              title: "Painting Services",              author: "Interior & Exterior",              description: "Professional painting services for both interior and exterior projects. Clean, high-quality finishes that protect and beautify.",              tags: ["Interior", "Exterior", "Professional"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772804500000-painting-services.jpg",              imageAlt: "professional house painting interior and exterior"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772804051816-49h5u6rr.jpg",              imageAlt: "professional house painting interior and exterior"
             },
           ]}
           animationType="slide-up"
