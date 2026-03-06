@@ -83,7 +83,7 @@ export default function HomePage() {
             },
             {
               id: "roofing",              title: "Roofing Services",              author: "JR's Roofing LLC - New Division",              description: "Complete roofing solutions including repairs, replacements, and storm damage restoration. Competitive rates and superior craftsmanship.",              tags: ["Repair", "Replacement", "Storm Damage"],
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-with-protection-helmet_23-2149343636.jpg?_wi=1",              imageAlt: "roofing shingles professional installation"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772802385672-wg4amu72.jpg?_wi=1",              imageAlt: "roofing shingles professional installation"
             },
             {
               id: "concrete",              title: "Concrete Work",              author: "Durable & Professional",              description: "Expert concrete services for driveways, patios, slabs, and foundations. Built to withstand Oklahoma weather.",              tags: ["Driveways", "Patios", "Slabs"],
