@@ -144,7 +144,7 @@ export default function HomePage() {
             },
             {
               id: "family-owned",              title: "Family-Owned Business",              author: "Local Roots, Local Pride",              description: "Locally owned and operated by the Resendez family. We're invested in our community and take pride in every project.",              tags: ["Local", "Community"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772805126259-2bsyyiit.jpg?_wi=3",              imageAlt: "family business local community"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772805342066-x9bromxy.jpg",              imageAlt: "family business local community"
             },
           ]}
           animationType="slide-up"
