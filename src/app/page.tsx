@@ -65,6 +65,9 @@ export default function HomePage() {
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772802385673-y86l68v7.jpg?_wi=1",              imageAlt: "Concrete driveway project"
             },
+            {
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772805126259-2bsyyiit.jpg",              imageAlt: "Additional project showcase"
+            },
           ]}
           autoplayDelay={5000}
           showDimOverlay={true}
@@ -110,7 +113,7 @@ export default function HomePage() {
           title="A Local Family Business Built on Hard Work"
           description="Jamie Resendez was born and raised in Chickasha, Oklahoma and founded JR's Diversified Fencing and Construction LLC with a commitment to quality, honesty, and affordable service. Working alongside his sons, the company represents a true family business dedicated to serving the local community. Every project is completed with pride, craftsmanship, and attention to detail. Veteran hands on deck."
           tag="About Us"
-          imageSrc="http://img.b2bpic.net/free-photo/full-shot-people-book-club_23-2150059022.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772805126259-2bsyyiit.jpg"
           imageAlt="JR's Diversified team at work"
           useInvertedBackground={true}
           buttons={[
@@ -141,7 +144,7 @@ export default function HomePage() {
             },
             {
               id: "family-owned",              title: "Family-Owned Business",              author: "Local Roots, Local Pride",              description: "Locally owned and operated by the Resendez family. We're invested in our community and take pride in every project.",              tags: ["Local", "Community"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772804851028-ucaw5ant.jpg",              imageAlt: "family business local community"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772805126259-2bsyyiit.jpg",              imageAlt: "family business local community"
             },
           ]}
           animationType="slide-up"
