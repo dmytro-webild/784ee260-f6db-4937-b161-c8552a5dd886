@@ -55,7 +55,7 @@ export default function RoofingServicesPage() {
           ]}
           slides={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772803139295-ifyrebqb.jpg",              imageAlt: "Professional roofing installation"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772803139295-ifyrebqb.jpg?_wi=2",              imageAlt: "Professional roofing installation"
             },
             {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772802385672-d61s3cc7.jpg?_wi=4",              imageAlt: "roof repair and maintenance"
@@ -77,7 +77,7 @@ export default function RoofingServicesPage() {
           features={[
             {
               id: "new-installation",              title: "New Roof Installation",              author: "Professional Design & Build",              description: "We design and install durable roofing systems using quality materials that withstand Oklahoma weather. From asphalt shingles to metal roofing, we deliver lasting protection for your property.",              tags: ["Installation", "Custom Design", "Quality"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772803139295-ifyrebqb.jpg",              imageAlt: "roof installation project"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AZ5ansrGPYT9UMxORCtfZ5K7Gz/uploaded-1772803139295-ifyrebqb.jpg?_wi=3",              imageAlt: "roof installation project"
             },
             {
               id: "repairs",              title: "Roof Repairs",              author: "Fast, Reliable Service",              description: "Damaged roof? We quickly assess and repair leaks, broken shingles, flashing issues, and structural damage. Our experienced team restores your roof to protective condition rapidly and affordably.",              tags: ["Repair", "Quick Service", "Affordable"],
