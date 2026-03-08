@@ -20,6 +20,12 @@ export default function HomePage() {
     { name: "Gallery", id: "gallery" },
   ];
 
+  const handleCallNowClick = () => {
+    const phoneNumber = "4052035018";
+    const telUrl = `tel:${phoneNumber}`;
+    window.location.href = telUrl;
+  };
+
   return (
     <ThemeProvider
       defaultButtonVariant="elastic-effect"
@@ -37,7 +43,7 @@ export default function HomePage() {
         <NavbarStyleCentered
           navItems={navItems}
           button={{
-            text: "Call Now",            href: "tel:405-203-5018"
+            text: "Call Now",            onClick: handleCallNowClick
           }}
           brandName="JR's Diversified"
         />
@@ -49,7 +55,7 @@ export default function HomePage() {
           description="Professional Fencing, Roofing & Construction Services in Chickasha, Oklahoma. Affordable, high-quality work with free estimates."
           buttons={[
             {
-              text: "Call Now: 405-203-5018",              href: "tel:405-203-5018"
+              text: "Call Now: 405-203-5018",              onClick: handleCallNowClick
             },
             {
               text: "Get Free Estimate",              href: "#contact"
